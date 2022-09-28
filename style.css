@@ -1,0 +1,45 @@
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin-top: 15px;
+}
+
+#status
+{
+font-size: 18px;
+margin-top: -10px;
+height: 20px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+h1,h3,h4 {
+    background: -webkit-linear-gradient(rgb(19, 139, 231), rgb(98, 208, 225));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: fredoka one;
+    transition: transform 1s;
+}
+
+button{
+    background: linear-gradient(60deg, rgb(19, 153, 211),rgb(101, 208, 225));
+    color: white;
+    border-radius: 7px;
+    border: none;
+    font-size: 50px;
+    font-family: fredoka one;
+  }
+  #start{
+    margin-top: 350px;
+    position: static;
+  }
+h4{
+    margin-top: -10px;
+}
+canvas{
+  border-radius: 10px;
+}
